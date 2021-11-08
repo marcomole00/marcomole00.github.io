@@ -8,7 +8,7 @@ const paramsFile =
         "email": "marco.mole@mail.polimi.it",
         "codice_fiscale": "MLOMRC00T13F205E"
     },
-    
+   
 ]
 
 let rp = require("request-promise")
