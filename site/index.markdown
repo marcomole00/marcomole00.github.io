@@ -6,4 +6,10 @@ layout: home
 title: "Home"
 permalink : /
 ---
-# Site on construction
+# home
+
+
+{% for post in site.posts %}
+{{}}
+
+{% endfor %}
