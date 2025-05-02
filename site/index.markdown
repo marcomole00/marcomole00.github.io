@@ -8,8 +8,8 @@ permalink : /
 ---
 # home
 
-
+<ul>
 {% for post in site.posts %}
-{{post}}
-
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
