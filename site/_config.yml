@@ -23,7 +23,6 @@
 theme: jekyll-theme-minimal
 domain: marcomole00.github.io
 url:  https://marcomole00.github.io
-baseurl: /site/
 title: Marco Molè
 email: marco.mole@mail.polimi.it
 description: >- # this means to ignore newlines until "baseurl:"

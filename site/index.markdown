@@ -11,7 +11,7 @@ Currently I am a Research Assistant at Politecnico Di Milano, under the supervis
 
 My research interests include End-Host Networking, Operating Systems and Network Protocols.
 
-{{ site.description }}
+{{ site.twitter_username }}
 
 
 # home
