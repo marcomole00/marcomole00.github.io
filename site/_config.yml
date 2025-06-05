@@ -20,7 +20,7 @@
 
 
 # Build settings
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-architect
 
 domain: marcomole00.github.io
 url:  https://marcomole00.github.io
