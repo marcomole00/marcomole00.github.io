@@ -6,6 +6,12 @@ layout: home
 title: "Home"
 permalink : /
 ---
+# Who am I?
+I am Marco Molè.
+Right now I am a Research Assistant at Politecnico Di Milano, under the supervision of (Prof. Gianni Antichi)[gianniantichi.github.io].
+
+
+
 # home
 
 <ul>
