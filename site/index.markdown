@@ -7,11 +7,13 @@ title: "Home"
 permalink : /
 ---
 
-Currently I am Research Assistant at Politecnico Di Milano, under the supervision of [Prof. Gianni Antichi](https://gianniantichi.github.io).
+Currently I am a Research Assistant at Politecnico Di Milano, under the supervision of [Prof. Gianni Antichi](https://gianniantichi.github.io).
 
 My research interests include End-Host Networking, Operating Systems and Network Protocols.
 
 {{ site.description }}
+
+
 # home
 
 <ul>
