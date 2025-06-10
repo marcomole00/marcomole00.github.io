@@ -1,0 +1,5 @@
+title: Your Site Title
+description: A simple Jekyll site hosted on GitHub Pages
+baseurl: "" # leave empty for user/organization site, set to "/repo-name" for project site
+url: "https://marcomole00.github.io"
+theme: minima
