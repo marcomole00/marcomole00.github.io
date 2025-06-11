@@ -13,7 +13,6 @@ I hold a Master's degree and a Bachelor's degree in Computer Science from [Polit
 My latest work has been porting XDP/AF_XDP zero copy to the [OpenNIC](https://github.com/Xilinx/open-nic-driver) driver. 
 
 
-You can find me on [GitHub](https://github.com/marcomole00), [Google Scholar](https://scholar.google.com/citations?user=YdEB6nQAAAAJ&hl=en)and  [LinkedIn](https://www.linkedin.com/in/marco-mole/).
+You can find me on [GitHub](https://github.com/marcomole00), [Google Scholar](https://scholar.google.com/citations?user=YdEB6nQAAAAJ&hl=en)  and  [LinkedIn](https://www.linkedin.com/in/marco-mole/).
 
 You can contact me at marco.mole at mail.polimi.it
-
