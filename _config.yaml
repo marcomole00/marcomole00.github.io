@@ -1,5 +1,4 @@
 title: Marco Molè
-description: "Personal website of Marco Molè"
 baseurl: "" # leave empty for user/organization site, set to "/repo-name" for project site
 url: "https://marcomole00.github.io"
 theme: minima

@@ -16,3 +16,7 @@ My latest work has been porting XDP/AF_XDP zero copy to the [OpenNIC](https://gi
 You can find me on [GitHub](https://github.com/marcomole00), [Google Scholar](https://scholar.google.com/citations?user=YdEB6nQAAAAJ&hl=en)  and  [LinkedIn](https://www.linkedin.com/in/marco-mole/).
 
 You can contact me at marco.mole at mail.polimi.it
+
+![This is me doing engineering](assets/image.png)
+
+This is me doing engineering.
