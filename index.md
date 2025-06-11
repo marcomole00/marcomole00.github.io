@@ -17,6 +17,6 @@ You can find me on [GitHub](https://github.com/marcomole00), [Google Scholar](ht
 
 You can contact me at marco.mole at mail.polimi.it
 
-![This is me doing engineering](assets/image.png)
+<img src="assets/image.png" alt="This is me doing engineering" width="300"/>
 
 This is me doing engineering.
