@@ -4,7 +4,7 @@ layout: home
 
 Hi!
 
-I'm currently a research assistant at [Politecnico di Milano](https://polimi.it) under the supervision of [Prof. Gianni Antichi](https://gianniantichi.github.io).
+I'm a Phd Student at [Politecnico di Milano](https://polimi.it) advised by  [Prof. Gianni Antichi](https://gianniantichi.github.io).
 
 My research interests are in the field of computer networks, specifically in the design and implementation of network stacks and protocols for high-performance and low-latency applications. I am more broadly interested in operating systems, and how they can be optimized for networking workloads.
 
