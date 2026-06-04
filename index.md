@@ -20,7 +20,12 @@ You can contact me at marco.mole at mail.polimi.it
 - [Performance Implications at the Intersection of AF_XDP and Programmable NICs](https://dl.acm.org/doi/10.1145/3748355.3748359). **Marco Molè**, Farbod Shahinfar, Francesco Maria Tranquillo, Davide Zoni, Aurojit Panda, Gianni Antichi @ eBPF Workshop '25, colocated with SIGCOMM
 
 ## Open Source
-- Contributed XDP support to the [OpenNIC](https://github.com/Xilinx/open-nic-driver) driver. 
+- Contributed XDP support to the [OpenNIC](https://github.com/Xilinx/open-nic-driver) driver.
+
+## Community Service
+- Shadow PC CoNEXT '26
+
+---
 
 <img src="assets/image.png" alt="This is me doing engineering" width="300"/>
 
