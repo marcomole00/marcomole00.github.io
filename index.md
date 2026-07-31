@@ -13,7 +13,9 @@ I hold a Master's degree and a Bachelor's degree in Computer Science & Engineeri
 
 You can find me on [GitHub](https://github.com/marcomole00), [Google Scholar](https://scholar.google.com/citations?user=YdEB6nQAAAAJ&hl=en)  and  [LinkedIn](https://www.linkedin.com/in/marco-mole/).
 
-You can contact me at marco.mole at mail.polimi.it
+You can contact me at marco.mole at polimi.it
+
+My cv is  [here](https://github.com/marcomole00/marcomole00.github.io/blob/master/curriculum-3.pdf)
 
 ## Publications
 - [Don't Stall Me Now: Hiding Memory Latency in eBPF](https://conferences.sigcomm.org/sigcomm/2026/).  Farbod Shahinfar, **Marco Molè**, Aurojit Panda, Gianni Antichi @ SIGCOMM '26 *yet to appear*
